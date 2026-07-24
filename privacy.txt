@@ -1,0 +1,19 @@
+Privacy Notice - Dee PPC Automation
+Effective date: July 24, 2026
+
+This is a personal, internal tool built and used solely by the account owner to manage Amazon Advertising PPC campaigns through the Amazon Advertising API. It is not distributed to or used by any other party.
+
+Data We Access
+Amazon Advertising API access and refresh tokens, plus campaign data such as impressions, clicks, spend, keywords, and bids, retrieved through the Amazon Advertising API.
+
+How We Use It
+Data is used only to automate bid management, budget pacing, and reporting for advertising campaigns run by the account owner.
+
+Sharing
+Data is never sold, shared, or disclosed to any third party.
+
+Storage and Retention
+Tokens and data are stored securely and accessible only to the account owner. Data is retained only as long as needed for the tool to operate and is deleted on request.
+
+Contact
+Questions can be sent to dylanbgrams@gmail.com
